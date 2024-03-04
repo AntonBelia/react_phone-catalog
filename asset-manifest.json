@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.669704aa.chunk.css",
-    "main.js": "./static/js/main.19162272.chunk.js",
-    "main.js.map": "./static/js/main.19162272.chunk.js.map",
+    "main.css": "./static/css/main.78f1196e.chunk.css",
+    "main.js": "./static/js/main.fee0c1b0.chunk.js",
+    "main.js.map": "./static/js/main.fee0c1b0.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c996f755.js",
     "runtime-main.js.map": "./static/js/runtime-main.c996f755.js.map",
     "static/js/2.2bc9420a.chunk.js": "./static/js/2.2bc9420a.chunk.js",
     "static/js/2.2bc9420a.chunk.js.map": "./static/js/2.2bc9420a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.669704aa.chunk.css.map": "./static/css/main.669704aa.chunk.css.map",
+    "static/css/main.78f1196e.chunk.css.map": "./static/css/main.78f1196e.chunk.css.map",
     "static/js/2.2bc9420a.chunk.js.LICENSE.txt": "./static/js/2.2bc9420a.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/Header.scss": "./static/media/icon_cart.1962e424.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.c996f755.js",
     "static/js/2.2bc9420a.chunk.js",
-    "static/css/main.669704aa.chunk.css",
-    "static/js/main.19162272.chunk.js"
+    "static/css/main.78f1196e.chunk.css",
+    "static/js/main.fee0c1b0.chunk.js"
   ]
 }
